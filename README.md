@@ -53,3 +53,7 @@ Este projeto visa a criação de um sistema de medição de pH e temperatura da 
 ## Dependências
 
 Este projeto utiliza a biblioteca LiquidCrystal para controle do display LCD. Esta biblioteca já está incluída na IDE do Arduino.
+
+## Imagens
+
+![alt text](image.png)
